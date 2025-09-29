@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF22CF4-0B0E-4A4A-A28C-F84308775D53}|EmilLesson41\\EmilLesson41.csproj|c:\\users\\akper\\source\\repos\\emillesson41\\emillesson41\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF22CF4-0B0E-4A4A-A28C-F84308775D53}|EmilLesson41\\EmilLesson41.csproj|solutionrelative:emillesson41\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF22CF4-0B0E-4A4A-A28C-F84308775D53}|EmilLesson41\\EmilLesson41.csproj|c:\\users\\akper\\source\\repos\\emillesson41\\emillesson41\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF22CF4-0B0E-4A4A-A28C-F84308775D53}|EmilLesson41\\EmilLesson41.csproj|solutionrelative:emillesson41\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\EmilLesson41\\Models\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "EmilLesson41\\Models\\AuthorEntity.cs",
+              "ToolTip": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\EmilLesson41\\Models\\AuthorEntity.cs",
+              "RelativeToolTip": "EmilLesson41\\Models\\AuthorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:53:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\EmilLesson41\\Models\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "EmilLesson41\\Models\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\EmilLesson41\\Models\\CourseEntity.cs",
+              "RelativeToolTip": "EmilLesson41\\Models\\CourseEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:40:56.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
