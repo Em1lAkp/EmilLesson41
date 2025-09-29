@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e2oGu4sw1ok=",
+  "dgSpecHash": "S+Jl6CcZY5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\akper\\source\\repos\\EmilLesson41\\EmilLesson41\\EmilLesson41.csproj",
+  "projectFilePath": "C:\\Users\\akper\\RiderProjects\\EmilLesson41\\EmilLesson41\\EmilLesson41.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akper\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\akper\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

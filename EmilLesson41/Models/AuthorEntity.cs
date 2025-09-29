@@ -12,5 +12,6 @@ namespace EmilLesson41.Models
         public string? UserName { get; set; }
         public Guid CourseID { get; set; }
         public CourseEntity? Course { get; set; }
+        public CourseEntity[]? Courses { get; set; }
     }
 }
